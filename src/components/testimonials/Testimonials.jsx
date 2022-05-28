@@ -33,7 +33,7 @@ const Testimonials = () => {
           </div>
 
           <h5 className='client__name'>Nama</h5>
-            <small className='cleint__review'>
+            <small className='client__review'>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
               Saepe tenetur eius iure nostrum ea, maxime veritatis eaque ipsum doloremque voluptatem at porro aperiam, perferendis rerum. 
               Facere autem recusandae asperiores adipisci.
